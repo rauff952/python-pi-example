@@ -2,6 +2,7 @@
 
 
 def hello():
+    //new comment
     print("Hello People")
 
 
